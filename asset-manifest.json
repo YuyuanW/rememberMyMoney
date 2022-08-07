@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rememberMyMoney/static/css/main.e09495cd.css",
+    "main.js": "/rememberMyMoney/static/js/main.0501cb0f.js",
+    "static/js/529.8ca049e5.chunk.js": "/rememberMyMoney/static/js/529.8ca049e5.chunk.js",
+    "index.html": "/rememberMyMoney/index.html",
+    "main.e09495cd.css.map": "/rememberMyMoney/static/css/main.e09495cd.css.map",
+    "main.0501cb0f.js.map": "/rememberMyMoney/static/js/main.0501cb0f.js.map",
+    "529.8ca049e5.chunk.js.map": "/rememberMyMoney/static/js/529.8ca049e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e09495cd.css",
+    "static/js/main.0501cb0f.js"
+  ]
+}
